@@ -18,7 +18,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * Created by in329dei on 28-2-14.
+ * @author in329dei
+ * @author Maciej Walkowiak
  */
 @Endpoint
 public class HolidayEndpoint {
